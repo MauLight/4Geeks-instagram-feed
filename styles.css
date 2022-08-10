@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: gainsboro;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width:600px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin-top:40px;
+}
+
+.title {
+    display: flex;
+    padding: 0px 10px 0px 10px;
+}
+
+.picName {
+    width: 700px;
+}
+
+img {
+    width: 600px;
+}
+
+.bottom {
+    padding-bottom: 5px;
+}
+
+.bottom p {
+    padding: 10px;
+}
